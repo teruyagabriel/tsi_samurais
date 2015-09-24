@@ -16,7 +16,7 @@
 			<input type="password" name="password"/>
 			<button type="submit">Entrar</button>
 		</form>
-	</div>
+	</div> 
 </body>
 </html>
 
