@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <title>kanino - login</title>
 </head>
-<body>
+<body> 
 
 	<div class="content">
 		<div claa="logo">
@@ -16,8 +16,6 @@
 			<input type="password" name="password"/>
 			<button type="submit">Entrar</button>
 		</form>
-	</div> 
+	</div>
 </body>
 </html>
-
-
