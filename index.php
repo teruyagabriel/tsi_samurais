@@ -5,14 +5,16 @@
 <title>kanino - login</title>
 </head>
 <body>
+
 	<div class="content">
 		<div claa="logo">
 			<img src="logo.png">
 		</div>
-		<form class="login">
+		<form action="actions/login.php" class="form-login" id="form-login">
+
 			<input type="text" name="username"/>
 			<input type="password" name="password"/>
-			<button>Entrar</button>
+			<button type="submit">Entrar</button>
 		</form>
 	</div>
 </body>
