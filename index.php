@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>kanino - login</title>
+    <meta charset="UTF-8">
+    <title>Kanino - Login</title>
 </head>
-<body> 
+<body>
 <div class="content">
     <div class="logo">
         <img src="logo.png">
@@ -15,6 +15,5 @@
         <button type="submit">Entrar</button>
     </form>
 </div>
- <!--teste (:-->
 </body>
 </html>
